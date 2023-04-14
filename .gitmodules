@@ -1,0 +1,6 @@
+[submodule "rust-lang-homu"]
+	path = rust-lang-homu
+	url = https://github.com/rust-lang/homu
+[submodule "servo-homu"]
+	path = servo-homu
+	url = https://github.com/servo/homu
